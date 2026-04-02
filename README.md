@@ -63,6 +63,16 @@ ai-growth-agent-startup-outreach/
 ├── requirements.txt
 └── README.md
 
+## Key Value
+
+This project shows how AI can move beyond content generation and become a decision-support system.
+
+It helps:
+
+reduce manual research
+prioritize leads faster
+improve outreach efficiency
+
 ## How to Run
 
 1. Clone the repository
@@ -89,19 +99,3 @@ Create a .env file:
 6. Run the app
 streamlit run app.py
 
-## Key Value
-
-This project shows how AI can move beyond content generation and become a decision-support system.
-
-It helps:
-
-reduce manual research
-prioritize leads faster
-improve outreach efficiency
-
-## Future Improvements
-
-Real-time company data enrichment
-CRM integration
-Automated outreach workflows
-Improved scoring explainability

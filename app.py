@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from src.lead_analyzer import analyze_companies
-
+ 
 def short_text(text: str, limit: int) -> str:
     text = str(text).strip()
     if len(text) <= limit:

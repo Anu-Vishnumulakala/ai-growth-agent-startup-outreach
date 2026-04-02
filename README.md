@@ -1,6 +1,6 @@
 # AI Growth Agent for Startup Outreach
 
-An AI-powered system that helps prioritize startup leads, rank the best opportunities, and generate personalized outreach messages — turning raw data into clear business decisions.
+An AI-powered system that helps prioritize startup leads, rank the best opportunities, and generate personalized outreach messages turning raw data into clear business decisions.
 
 ## Problem
 

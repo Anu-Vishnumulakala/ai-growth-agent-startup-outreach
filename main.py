@@ -2,7 +2,7 @@ from src.utils import load_leads
 from src.lead_analyzer import analyze_company
 import pandas as pd
 
-def parse_output(text):
+def parse_output(text): 
     result = {
         "summary": "",
         "score": "",
